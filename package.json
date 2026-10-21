@@ -1,0 +1,22 @@
+{
+  "name": "7_lab_mongoose_23it137",
+  "version": "1.0.0",
+  "description": "Lab 7 Mongoose 101 - Cloud Computing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "mongoose",
+    "mongodb",
+    "23IT137"
+  ],
+  "author": "Nguyen Quang Kinh (23IT137)",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "mongoose": "^8.9.5"
+  }
+}
